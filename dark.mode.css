@@ -168,7 +168,7 @@ background: transparent !important;
 display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before{
-content:'‏‏‎ c h i l l a x';
+content:'‏‏‎ e m m e f f';
 font-size: 12px;
 font-family: "Poiret one"!important;
 position:fixed;
@@ -183,7 +183,7 @@ pointer-events: all;
 transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before{
-content:'‏‏‎ c h i l l a x';
+content:'‏‏‎ e m m e f f';
 letter-spacing: 2px;
 }
 /* button design*/
